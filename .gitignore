@@ -1,0 +1,21 @@
+# Archivos generados por MATLAB/Simulink
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.mexw64
+*.mexa64
+*.mexmaci64
+*.r20*
+sccprj/
+codegen/
+
+# Copias de modelos que crea experimento_montecarlo.m
+simulador/mavsim_manager_mc.slx
+simulador/mavsim_trim_v2.slx
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+simulador/mavsim_manager_video.slx
